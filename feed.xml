@@ -21,9 +21,9 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <itunes:image href="https://idvork.in/apple-touch-icon-precomposed.png"/>
+    <itunes:image href="https://idvorkin-ai-tools.github.io/podcast/covers/igors-podcast.jpg"/>
     <image>
-      <url>https://idvork.in/apple-touch-icon-precomposed.png</url>
+      <url>https://idvorkin-ai-tools.github.io/podcast/covers/igors-podcast.jpg</url>
       <title>Igor's Podcast</title>
       <link>https://idvork.in/podcast</link>
     </image>
