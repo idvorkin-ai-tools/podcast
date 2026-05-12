@@ -31,6 +31,23 @@
     <managingEditor>idvorkin@gmail.com (Igor Dvorkin)</managingEditor>
 
     <item>
+      <title>Igor's Eulogy + Affirmations (with a Suno song interlude)</title>
+      <description>The eulogy I'd want at my funeral, then the eulogy reimagined as a Suno-generated song, then the affirmations I work every day. Three voices, one answer to the same question. Read the eulogy: https://idvork.in/eulogy · Read the affirmations: https://idvork.in/affirmations · About AI music generation: https://suno.com
+
+Chapters: 0:00 Eulogy · 14:00 The Eulogy as a Song · 16:16 Affirmations.</description>
+      <itunes:summary>Eulogy narration → Suno song version → affirmations narration. 22:16.</itunes:summary>
+      <itunes:author>Igor Dvorkin</itunes:author>
+      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://idvorkin-ai-tools.github.io/podcast/episodes/002-eulogy-and-affirmations.mp3" length="10699808" type="audio/mpeg"/>
+      <podcast:chapters url="https://idvorkin-ai-tools.github.io/podcast/episodes/002-eulogy-and-affirmations.chapters.json" type="application/json+chapters"/>
+      <guid isPermaLink="false">igor-podcast-002-eulogy</guid>
+      <pubDate>Tue, 12 May 2026 06:26:36 -0700</pubDate>
+      <link>https://idvork.in/eulogy</link>
+    </item>
+
+    <item>
       <title>The 7 Habits of Highly Effective People — Igor's Take</title>
       <description>Igor's full essay on Stephen Covey's 7 Habits. Read the post: https://idvork.in/7h-concepts
 
