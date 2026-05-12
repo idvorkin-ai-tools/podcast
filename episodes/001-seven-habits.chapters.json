@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Foundations"
+    },
+    {
+      "startTime": 1137.8000000000004,
+      "title": "Habit 1: Be Proactive"
+    },
+    {
+      "startTime": 2251.2799999999997,
+      "title": "Habit 2: Begin with the End in Mind"
+    },
+    {
+      "startTime": 3117.319999999999,
+      "title": "Habit 3: Put First Things First"
+    },
+    {
+      "startTime": 4289.239999999998,
+      "title": "Habit 4: Win-Win, or No Deal"
+    },
+    {
+      "startTime": 5901.279999999995,
+      "title": "Habit 5: Seek First to Understand"
+    },
+    {
+      "startTime": 6727.599999999994,
+      "title": "Habit 6: Synergize"
+    },
+    {
+      "startTime": 7383.959999999994,
+      "title": "Habit 7: Sharpen the Saw"
+    }
+  ]
+}
